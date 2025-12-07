@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Housie-tambola/'   // <-- ADD THIS
+  base: '/housie-tambola/'   // <-- ADD THIS
 })
